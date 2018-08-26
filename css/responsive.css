@@ -1384,8 +1384,9 @@
     .content-right-slider .swiper-button-prev  {left: 20px;}
 
     /* font size */
-    .title-large { font-size: 90px; line-height: 90px;}
-    .text-extra-large { font-size: 18px; line-height: 24px;}
+    .title-medium {font-size: 65px; line-height: 63px}
+    .title-large {font-size: 90px; line-height: 90px;}
+    .text-extra-large {font-size: 18px; line-height: 24px;}
     .percent {line-height: 125px;}
 
     /* portfolio grid */
@@ -1492,7 +1493,7 @@
     h6 {font-size:22px; line-height:26px}
     p { margin: 0 0 20px; }
 
-    .title-medium {font-size: 45px; line-height:43px}
+    .title-medium {font-size: 50px; line-height:47px}
     .title-large {font-size: 70px; line-height:65px}
     .title-extra-large {font-size: 100px; line-height:95px}
     .percent {line-height: 125px;}
@@ -4321,8 +4322,8 @@
 
     .page-title-large h1 {font-size: 35px; line-height: 35px;}
     .page-title-medium h1 { font-size: 25px; line-height: 30px;}
-    .title-medium {font-size: 27px; line-height:31px}
     .text-large {font-size:12px; line-height:20px}
+    .title-medium {font-size: 35px; line-height:41px}
     .title-large {font-size: 38px; line-height:44px}
     .title-extra-large {font-size: 35px; line-height:40px}
 
